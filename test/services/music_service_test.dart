@@ -167,7 +167,7 @@ void main() {
     });
 
     test('should have correct base URL', () {
-      expect(MusicService.baseUrl, equals('http://10.0.2.2:8000'));
+      expect(MusicService.baseUrl, equals('http://localhost:8000'));
     });
 
     test('should create service instance', () {
@@ -190,18 +190,18 @@ void main() {
 
       test('should construct correct health endpoint', () {
         final url = '${MusicService.baseUrl}/health';
-        expect(url, equals('http://10.0.2.2:8000/health'));
+        expect(url, equals('http://localhost:8000/health'));
       });
 
       test('should construct correct generate endpoint', () {
         final url = '${MusicService.baseUrl}/music/generate';
-        expect(url, equals('http://10.0.2.2:8000/music/generate'));
+        expect(url, equals('http://localhost:8000/music/generate'));
       });
 
       test('should construct correct status endpoint', () {
         const trackId = 'test_track_123';
         final url = '${MusicService.baseUrl}/music/status/$trackId';
-        expect(url, equals('http://10.0.2.2:8000/music/status/test_track_123'));
+        expect(url, equals('http://localhost:8000/music/status/test_track_123'));
       });
     });
   });

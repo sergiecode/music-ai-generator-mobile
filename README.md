@@ -230,6 +230,22 @@ dependencies:
 - 💻 **GitHub**: Open-source projects and educational repositories
 - 🎵 **Mission**: Making AI accessible for musicians and content creators
 
+- 📸 Instagram: https://www.instagram.com/sergiecode
+
+- 🧑🏼‍💻 LinkedIn: https://www.linkedin.com/in/sergiecode/
+
+- 📽️Youtube: https://www.youtube.com/@SergieCode
+
+- 😺 Github: https://github.com/sergiecode
+
+- 👤 Facebook: https://www.facebook.com/sergiecodeok
+
+- 🎞️ Tiktok: https://www.tiktok.com/@sergiecode
+
+- 🕊️Twitter: https://twitter.com/sergiecode
+
+- 🧵Threads: https://www.threads.net/@sergiecode
+
 ---
 
 ## 🤝 **Contributing**
@@ -239,12 +255,6 @@ This project is part of an educational series. Feel free to:
 - Suggest new features
 - Submit pull requests for improvements
 - Use this code for learning purposes
-
----
-
-## 📄 **License**
-
-This project is created for educational purposes. Please respect the educational nature of this content and give credit to Sergie Code when using or sharing this code.
 
 ---
 
